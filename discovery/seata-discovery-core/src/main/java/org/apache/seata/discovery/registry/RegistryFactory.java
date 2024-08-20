@@ -21,7 +21,7 @@ import java.util.Objects;
 import org.apache.seata.common.exception.NotSupportYetException;
 import org.apache.seata.common.loader.EnhancedServiceLoader;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -49,8 +49,8 @@ import org.apache.seata.config.processor.ConfigProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import static org.apache.seata.config.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
-import static org.apache.seata.config.ConfigurationKeys.FILE_ROOT_CONFIG;
+import static org.apache.seata.common.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
+import static org.apache.seata.common.ConfigurationKeys.FILE_ROOT_CONFIG;
 
 /**
  * The type Consul configuration.

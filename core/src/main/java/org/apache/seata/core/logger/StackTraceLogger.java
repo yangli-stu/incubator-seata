@@ -22,7 +22,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import org.apache.seata.common.util.CollectionUtils;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.slf4j.Logger;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_LOG_EXCEPTION_RATE;

@@ -24,7 +24,7 @@ import org.apache.seata.core.serializer.SerializerType;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_RAFT_COMPRESSOR;
 import static org.apache.seata.common.DefaultValues.DEFAULT_RAFT_SERIALIZATION;
-import static org.apache.seata.core.constants.ConfigurationKeys.SERVER_RAFT_COMPRESSOR;
+import static org.apache.seata.common.ConfigurationKeys.SERVER_RAFT_COMPRESSOR;
 
 /**
  */

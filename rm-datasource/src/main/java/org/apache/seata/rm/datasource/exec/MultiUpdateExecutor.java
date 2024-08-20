@@ -31,7 +31,7 @@ import org.apache.seata.common.util.IOUtil;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.common.DefaultValues;
 import org.apache.seata.sqlparser.util.ColumnUtils;
 import org.apache.seata.rm.datasource.SqlGenerateUtils;

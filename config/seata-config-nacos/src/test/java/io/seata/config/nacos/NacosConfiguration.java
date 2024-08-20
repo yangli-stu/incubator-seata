@@ -38,7 +38,7 @@ import io.seata.config.ConfigurationChangeListener;
 import org.apache.seata.common.exception.NotSupportYetException;
 import org.apache.seata.common.util.CollectionUtils;
 import org.apache.seata.common.util.StringUtils;
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.config.processor.ConfigProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

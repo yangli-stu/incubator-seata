@@ -17,7 +17,7 @@
 package org.apache.seata.server.auth;
 
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.protocol.RegisterRMRequest;
 import org.apache.seata.core.protocol.RegisterTMRequest;
 import org.apache.seata.core.rpc.RegisterCheckAuthHandler;

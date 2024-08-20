@@ -20,7 +20,7 @@ import io.netty.channel.ServerChannel;
 import io.netty.channel.epoll.Epoll;
 import io.netty.channel.epoll.EpollServerSocketChannel;
 import org.apache.seata.common.DefaultValues;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_BOSS_THREAD_PREFIX;
 import static org.apache.seata.common.DefaultValues.DEFAULT_BOSS_THREAD_SIZE;

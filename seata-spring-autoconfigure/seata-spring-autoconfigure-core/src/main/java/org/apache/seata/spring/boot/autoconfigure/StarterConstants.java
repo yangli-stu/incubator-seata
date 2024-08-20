@@ -18,7 +18,7 @@ package org.apache.seata.spring.boot.autoconfigure;
 
 import java.util.HashMap;
 
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 
 
 public interface StarterConstants {

@@ -17,7 +17,7 @@
 package org.apache.seata.tm.api;
 
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.context.RootContext;
 import org.apache.seata.core.exception.TransactionException;
 import org.apache.seata.core.model.GlobalStatus;

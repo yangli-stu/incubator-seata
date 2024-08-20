@@ -34,7 +34,7 @@ import org.apache.seata.rm.datasource.AbstractDataSourceCacheResourceManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import static org.apache.seata.core.constants.ConfigurationKeys.XA_CONNECTION_TWO_PHASE_HOLD_TIMEOUT;
+import static org.apache.seata.common.ConfigurationKeys.XA_CONNECTION_TWO_PHASE_HOLD_TIMEOUT;
 
 /**
  * RM for XA mode.

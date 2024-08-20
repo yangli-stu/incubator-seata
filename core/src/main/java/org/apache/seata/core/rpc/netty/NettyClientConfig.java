@@ -17,7 +17,7 @@
 package org.apache.seata.core.rpc.netty;
 
 import io.netty.channel.Channel;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.rpc.TransportServerType;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_ENABLE_CLIENT_BATCH_SEND_REQUEST;

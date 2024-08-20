@@ -36,7 +36,7 @@ import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationChangeEvent;
 import org.apache.seata.config.ConfigurationFactory;
 import org.apache.seata.core.auth.AuthSigner;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.protocol.AbstractMessage;
 import org.apache.seata.core.protocol.MessageType;
 import org.apache.seata.core.protocol.RegisterTMRequest;

@@ -19,7 +19,7 @@ package org.apache.seata.core.exception;
 import java.util.Objects;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.model.LockStatus;
 import org.apache.seata.core.protocol.ResultCode;
 import org.apache.seata.core.protocol.transaction.AbstractTransactionRequest;

@@ -33,9 +33,9 @@ import org.springframework.core.env.PropertiesPropertySource;
 
 import static org.apache.seata.common.Constants.OBJECT_KEY_SPRING_CONFIGURABLE_ENVIRONMENT;
 import static org.apache.seata.common.DefaultValues.SERVICE_OFFSET_SPRING_BOOT;
-import static org.apache.seata.core.constants.ConfigurationKeys.ENV_SEATA_PORT_KEY;
-import static org.apache.seata.core.constants.ConfigurationKeys.SERVER_SERVICE_PORT_CAMEL;
-import static org.apache.seata.core.constants.ConfigurationKeys.SERVER_SERVICE_PORT_CONFIG;
+import static org.apache.seata.common.ConfigurationKeys.ENV_SEATA_PORT_KEY;
+import static org.apache.seata.common.ConfigurationKeys.SERVER_SERVICE_PORT_CAMEL;
+import static org.apache.seata.common.ConfigurationKeys.SERVER_SERVICE_PORT_CONFIG;
 
 /**
  */

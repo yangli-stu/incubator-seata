@@ -31,7 +31,7 @@ import org.apache.seata.config.CachedConfigurationChangeListener;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationChangeEvent;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.event.EventBus;
 import org.apache.seata.core.event.GuavaEventBus;
 import org.apache.seata.core.exception.TmTransactionException;

@@ -42,8 +42,8 @@ import org.apache.seata.config.exception.ConfigNotFoundException;
 import org.apache.seata.discovery.registry.RegistryService;
 import org.apache.commons.lang.StringUtils;
 
-import static org.apache.seata.config.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
-import static org.apache.seata.config.ConfigurationKeys.FILE_ROOT_REGISTRY;
+import static org.apache.seata.common.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
+import static org.apache.seata.common.ConfigurationKeys.FILE_ROOT_REGISTRY;
 
 /**
  * The type SOFARegistry registry service.

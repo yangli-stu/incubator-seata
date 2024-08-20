@@ -26,13 +26,13 @@ import io.prometheus.client.Collector.MetricFamilySamples.Sample;
 import io.prometheus.client.exporter.HTTPServer;
 import org.apache.seata.common.loader.LoadLevel;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.metrics.Measurement;
 import org.apache.seata.metrics.exporter.Exporter;
 import org.apache.seata.metrics.registry.Registry;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_PROMETHEUS_PORT;
-import static org.apache.seata.core.constants.ConfigurationKeys.METRICS_EXPORTER_PROMETHEUS_PORT;
+import static org.apache.seata.common.ConfigurationKeys.METRICS_EXPORTER_PROMETHEUS_PORT;
 
 /**
  * Exporter for Prometheus

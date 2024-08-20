@@ -18,7 +18,7 @@ package org.apache.seata.rm.datasource.sql;
 
 import org.apache.seata.common.loader.EnhancedServiceLoader;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.sqlparser.SQLRecognizer;
 import org.apache.seata.sqlparser.SQLRecognizerFactory;
 import org.apache.seata.sqlparser.SqlParserType;

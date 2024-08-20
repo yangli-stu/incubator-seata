@@ -44,7 +44,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_CLIENT_ASYNC_COMMIT_BUFFER_LIMIT;
-import static org.apache.seata.core.constants.ConfigurationKeys.CLIENT_ASYNC_COMMIT_BUFFER_LIMIT;
+import static org.apache.seata.common.ConfigurationKeys.CLIENT_ASYNC_COMMIT_BUFFER_LIMIT;
 
 /**
  * The type Async worker.

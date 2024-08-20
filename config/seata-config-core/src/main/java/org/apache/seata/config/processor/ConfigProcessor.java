@@ -20,7 +20,7 @@ import org.apache.seata.common.loader.EnhancedServiceLoader;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 
 import java.io.IOException;
 import java.util.Properties;

@@ -41,8 +41,8 @@ import org.apache.seata.config.ConfigurationChangeListener;
 import org.apache.seata.config.ConfigurationChangeType;
 import org.apache.seata.config.ConfigurationFactory;
 
-import static org.apache.seata.config.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
-import static org.apache.seata.config.ConfigurationKeys.FILE_ROOT_CONFIG;
+import static org.apache.seata.common.ConfigurationKeys.FILE_CONFIG_SPLIT_CHAR;
+import static org.apache.seata.common.ConfigurationKeys.FILE_ROOT_CONFIG;
 
 /**
  * The type Apollo configuration.

@@ -20,7 +20,7 @@ import org.apache.seata.rm.datasource.exec.LockRetryController;
 import org.apache.seata.rm.datasource.exec.LockWaitTimeoutException;
 import org.apache.seata.common.DefaultValues;
 import org.apache.seata.config.ConfigurationChangeEvent;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.context.GlobalLockConfigHolder;
 import org.apache.seata.core.model.GlobalLockConfig;
 import org.junit.jupiter.api.AfterEach;

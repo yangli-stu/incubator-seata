@@ -38,7 +38,7 @@ import org.apache.seata.common.util.NetUtil;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.config.exception.ConfigNotFoundException;
 import org.apache.seata.discovery.registry.RegistryService;
 import org.slf4j.Logger;

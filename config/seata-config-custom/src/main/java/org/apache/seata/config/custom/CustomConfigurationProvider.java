@@ -21,7 +21,7 @@ import org.apache.seata.common.loader.LoadLevel;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.ConfigType;
 import org.apache.seata.config.Configuration;
-import org.apache.seata.config.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.config.ConfigurationFactory;
 import org.apache.seata.config.ConfigurationProvider;
 

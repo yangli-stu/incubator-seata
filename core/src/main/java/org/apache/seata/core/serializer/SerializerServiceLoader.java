@@ -26,7 +26,7 @@ import org.apache.seata.common.loader.EnhancedServiceNotFoundException;
 import org.apache.seata.common.util.ReflectionUtil;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

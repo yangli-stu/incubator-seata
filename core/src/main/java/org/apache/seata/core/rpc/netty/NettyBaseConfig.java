@@ -32,7 +32,7 @@ import io.netty.util.NettyRuntime;
 import io.netty.util.internal.PlatformDependent;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.rpc.TransportProtocolType;
 import org.apache.seata.core.rpc.TransportServerType;
 import org.apache.commons.lang.StringUtils;

@@ -35,7 +35,7 @@ import org.apache.seata.common.util.LambdaUtils;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.Configuration;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.constants.ServerTableColumnsName;
 import org.apache.seata.core.exception.BranchTransactionException;
 import org.apache.seata.core.model.LockStatus;

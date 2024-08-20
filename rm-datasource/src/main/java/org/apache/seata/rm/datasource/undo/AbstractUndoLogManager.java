@@ -36,7 +36,7 @@ import org.apache.seata.config.ConfigurationFactory;
 import org.apache.seata.core.compressor.CompressorFactory;
 import org.apache.seata.core.compressor.CompressorType;
 import org.apache.seata.core.constants.ClientTableColumnsName;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.exception.BranchTransactionException;
 import org.apache.seata.core.exception.TransactionException;
 import org.apache.seata.core.rpc.processor.Pair;

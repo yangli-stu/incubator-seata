@@ -21,7 +21,7 @@ import org.apache.seata.common.executor.Initialize;
 import org.apache.seata.common.loader.EnhancedServiceLoader;
 import org.apache.seata.common.loader.LoadLevel;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.core.exception.TransactionException;
 import org.apache.seata.core.lock.Locker;
 import org.apache.seata.core.store.db.DataSourceProvider;

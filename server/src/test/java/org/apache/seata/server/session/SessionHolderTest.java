@@ -19,7 +19,7 @@ package org.apache.seata.server.session;
 import java.io.File;
 import java.io.IOException;
 import org.apache.seata.common.XID;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.server.store.StoreConfig.SessionMode;
 import org.apache.seata.server.session.SessionHolder;
 import org.junit.jupiter.api.AfterEach;

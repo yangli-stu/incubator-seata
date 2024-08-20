@@ -22,7 +22,7 @@ import org.apache.seata.common.exception.NotSupportYetException;
 import org.apache.seata.common.loader.EnhancedServiceLoader;
 import org.apache.seata.common.util.StringUtils;
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 
 import static org.apache.seata.common.DefaultValues.DEFAULT_METRICS_REGISTRY_TYPE;
 

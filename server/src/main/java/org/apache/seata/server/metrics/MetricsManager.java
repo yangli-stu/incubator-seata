@@ -19,7 +19,7 @@ package org.apache.seata.server.metrics;
 import java.util.List;
 
 import org.apache.seata.config.ConfigurationFactory;
-import org.apache.seata.core.constants.ConfigurationKeys;
+import org.apache.seata.common.ConfigurationKeys;
 import org.apache.seata.metrics.exporter.Exporter;
 import org.apache.seata.metrics.exporter.ExporterFactory;
 import org.apache.seata.metrics.registry.Registry;
